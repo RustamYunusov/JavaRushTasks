@@ -1137,3 +1137,11 @@ t
 D2.JavaCore/src/com/javarush/task/task16/task1617/Условие.jrtc,6/b/6befe6f49c488a9e5d96d97184a02fd1de296764
 n
 >2.JavaCore/src/com/javarush/task/task16/task1617/Solution.java,3/0/306b0194b9a2a51582532535cd4bcfe3539d8e69
+t
+D2.JavaCore/src/com/javarush/task/task16/task1618/Условие.jrtc,4/4/443502cd0643c5a26bbb91569f3992289f87a624
+n
+>2.JavaCore/src/com/javarush/task/task16/task1618/Solution.java,e/8/e8eb2d601ba40b47373aaf1baf82896da02d23a3
+t
+D2.JavaCore/src/com/javarush/task/task16/task1619/Условие.jrtc,b/0/b037d84bd53353985fd8e50dee1347944ac596fe
+n
+>2.JavaCore/src/com/javarush/task/task16/task1619/Solution.java,b/c/bc67130f412920518772a6837b39c47517595a19
