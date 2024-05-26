@@ -1,0 +1,7 @@
+
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã ªà8ºÏµ÷°1
+G	java:S106""+Replace this use of System.out by a logger.(Î³¦Ü8ˆÐµ÷°1
+€
+java:S1157$"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¯÷Üå8‰Ðµ÷°1
+G	java:S106*"+Replace this use of System.out by a logger.(ðô¥é8œÐµ÷°1
+L	java:S106-"+Replace this use of System.out by a logger.(¿ÔÑÁúÿÿÿÿ8žÐµ÷°1

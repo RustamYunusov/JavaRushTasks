@@ -1,0 +1,18 @@
+
+Q
+java:S3740?"/Provide the parametrized type for this generic.(ë×Å¯øÿÿÿÿ8·°²½«1
+s	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8¹°²½«1
+
+java:S1319("dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(®·» 8¹°²½«1
+†
+java:S13192"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(½ŸÎıÿÿÿÿ8º°²½«1
+
+java:S1319="dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(’ä‡À8»°²½«1
+G	java:S106"+Replace this use of System.out by a logger.(ÒØ¶‰8ö°²½«1
+L	java:S106!"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8÷°²½«1
+F	java:S106""+Replace this use of System.out by a logger.(ˆÄ—8ø°²½«1
+L	java:S106#"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8ù°²½«1
+L	java:S106$"+Replace this use of System.out by a logger.(Œø†ùÿÿÿÿ8ú°²½«1
+L	java:S106%"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8û°²½«1
+€
+java:S1157C"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(»ö¨›8àõ¶½«1

@@ -1,0 +1,8 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘÷ß8úõí³1
+X	java:S125"<This block of commented-out lines of code should be removed.(¨§8ç—‘í³1
+L	java:S106"+Replace this use of System.out by a logger.(„©Õ¯øÿÿÿÿ8«öí³1
+G	java:S106"+Replace this use of System.out by a logger.(‹Ä‹ÿ8¬öí³1
+G	java:S106"+Replace this use of System.out by a logger.(Ëªˆ¤8¯öí³1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÛÃ‘í³1

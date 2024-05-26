@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“òéì1
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÂãg8”òéì1
+m
+java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(òÂãg8•òéì1
+G
+java:S1444"+Make this "public static lines" field final(òÂãg8•òéì1
+9
+java:S2386"Make this member "protected".(òÂãg8òéì1
+L	java:S106"+Replace this use of System.out by a logger.(ÎıĞòüÿÿÿÿ8§òéì1

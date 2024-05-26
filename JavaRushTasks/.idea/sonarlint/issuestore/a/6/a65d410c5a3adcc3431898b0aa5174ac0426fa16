@@ -1,0 +1,12 @@
+
+€
+java:S1319"cThe type of "grades" should be an interface such as "Map" rather than the implementation "HashMap".(æäŸ“8Êçµ´¬1
+o
+java:S1104"RMake grades a static final constant or non-public and provide accessors if needed.(æäŸ“8Ëçµ´¬1
+I
+java:S1444",Make this "public static grades" field final(æäŸ“8Ìçµ´¬1
+:
+java:S2386"Make this member "protected".(æäŸ“8Øçµ´¬1
+G	java:S106"+Replace this use of System.out by a logger.(§ý³ò8³ ¶´¬1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ççµ´¬1

@@ -1,0 +1,10 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œû¿Ø8¬š„âí1
+L	java:S106+"+Replace this use of System.out by a logger.(”¾üÊøÿÿÿÿ8³š„âí1
+G	java:S106>"+Replace this use of System.out by a logger.(ùè·¢8¸š„âí1
+G	java:S106B"+Replace this use of System.out by a logger.(×Óù˜8¸š„âí1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Õé…âí1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Õé…âí1

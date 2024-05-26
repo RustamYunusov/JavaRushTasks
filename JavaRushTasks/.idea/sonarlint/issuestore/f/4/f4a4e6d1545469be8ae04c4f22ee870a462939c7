@@ -1,0 +1,19 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ù„éúÿÿÿÿ8ôÜ„ÀÙ1
+W
+java:S1854":Remove this useless assignment to local variable "reader".(Ï ¾ğ8Îİ„ÀÙ1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ïİ„ÀÙ1
+H
+java:S1481"+Remove this unused "reader" local variable.(Ï ¾ğ8Ñİ„ÀÙ1
+J
+java:S1481"(Remove this unused "key" local variable.(¤Êéµÿÿÿÿÿ8Ñİ„ÀÙ1
+_
+java:S6201/"BReplace this instanceof check and cast with 'instanceof User user'(Æ±Ÿ8Ùİ„ÀÙ1
+a
+java:S62011"DReplace this instanceof check and cast with 'instanceof Loser loser'( ëº8Ùİ„ÀÙ1
+f
+java:S62013"DReplace this instanceof check and cast with 'instanceof Coder coder'(Şùˆÿÿÿÿÿ8Úİ„ÀÙ1
+h
+java:S62015"FReplace this instanceof check and cast with 'instanceof Proger proger'(İĞÏïùÿÿÿÿ8°š…ÀÙ1

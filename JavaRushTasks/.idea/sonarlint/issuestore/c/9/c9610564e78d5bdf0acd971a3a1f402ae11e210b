@@ -1,0 +1,7 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ö€â’8»‰ê÷°1
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ª¸üÿÿÿÿ8¼‰ê÷°1
+G	java:S106"+Replace this use of System.out by a logger.(ØÜÍã8¾‰ê÷°1
+G	java:S106"+Replace this use of System.out by a logger.(€Ó¶¸8À‰ê÷°1
+G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8Â‰ê÷°1

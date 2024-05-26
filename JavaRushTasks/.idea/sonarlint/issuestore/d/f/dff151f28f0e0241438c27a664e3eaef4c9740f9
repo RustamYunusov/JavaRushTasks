@@ -1,0 +1,10 @@
+
+s
+java:S1104"XMake globalNumber a static final constant or non-public and provide accessors if needed.(ÚÕ¢Âúÿÿÿÿ
+m
+java:S1104"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ
+M
+java:S1444"2Make this "public static globalNumber" field final(ÚÕ¢Âúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.( åœ¾ùÿÿÿÿ
+G	java:S106"+Replace this use of System.out by a logger.(»Ì‘Ú8™–Ãá1
+L	java:S106"+Replace this use of System.out by a logger.(°Õ…·şÿÿÿÿ8µ¶Äá1

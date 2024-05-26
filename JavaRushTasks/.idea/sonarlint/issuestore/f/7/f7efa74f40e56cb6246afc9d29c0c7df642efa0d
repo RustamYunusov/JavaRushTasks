@@ -1,0 +1,22 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(³¾Äşÿÿÿÿ8®¹íŸ»1
+L	java:S106"+Replace this use of System.out by a logger.(ö‚áÌşÿÿÿÿ8¯¹íŸ»1
+L	java:S106"+Replace this use of System.out by a logger.(®ğòùÿÿÿÿ8°¹íŸ»1
+G	java:S106"+Replace this use of System.out by a logger.(¯Ïûì8°¹íŸ»1
+F	java:S106"+Replace this use of System.out by a logger.(­ö08±¹íŸ»1
+L	java:S106"+Replace this use of System.out by a logger.(Ä¸š™øÿÿÿÿ8²¹íŸ»1
+F	java:S106"+Replace this use of System.out by a logger.(£Æ‚n8²¹íŸ»1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğªé÷8´¹íŸ»1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ù–ıµùÿÿÿÿ8µ¹íŸ»1
+g
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(°“Ç„şÿÿÿÿ8¶¹íŸ»1
+b
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(äÍ—Ú8·¹íŸ»1
+g
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(½´¿òøÿÿÿÿ8¹¹íŸ»1
+g
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(¦Ôäùÿÿÿÿ8»¹íŸ»1
+W
+java:S1128":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8»¹íŸ»1

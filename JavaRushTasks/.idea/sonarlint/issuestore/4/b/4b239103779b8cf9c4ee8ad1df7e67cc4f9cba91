@@ -1,0 +1,8 @@
+
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ãÉàÛ1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8ëÉàÛ1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ìÉàÛ1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ìÉàÛ1

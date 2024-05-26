@@ -1,0 +1,7 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(·ª—¥8£­‘âí1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹ü›õøÿÿÿÿ8¥­‘âí1
+W
+java:S1161":Add the "@Override" annotation above this method signature(ÔıŠ…8©­‘âí1

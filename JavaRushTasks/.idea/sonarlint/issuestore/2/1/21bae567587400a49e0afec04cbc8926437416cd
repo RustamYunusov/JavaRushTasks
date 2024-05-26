@@ -1,0 +1,12 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ώ©ΆΒ8€ιέφ1
+m
+java:S1104"PMake list a static final constant or non-public and provide accessors if needed.(ώ©ΆΒ8‚ιέφ1
+G
+java:S1444"*Make this "public static list" field final(ώ©ΆΒ8‚ιέφ1
+:
+java:S2386"Make this member "protected".(ώ©ΆΒ8”ιέφ1
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ώ©ΆΒ8—ιέφ1
+L	java:S106'"+Replace this use of System.out by a logger.(Κ¶™…ύÿÿÿÿ8ªιέφ1

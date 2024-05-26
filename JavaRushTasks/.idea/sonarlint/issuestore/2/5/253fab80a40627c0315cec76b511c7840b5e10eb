@@ -1,0 +1,10 @@
+
+‚
+java:S1319"eThe type of "words" should be an interface such as "List" rather than the implementation "ArrayList".(Õøæ˜8°Ô½«1
+~
+java:S1319"bThe type of "words" should be an interface such as "Set" rather than the implementation "HashSet".(ŠÕË8±Ô½«1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8ÒÔ½«1
+]	java:S125"<This block of commented-out lines of code should be removed.(À¹ûÿÿÿÿ8ÓÔ½«1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8àÔ½«1
+X	java:S125"<This block of commented-out lines of code should be removed.(Åİ¾®8ş¢½«1
+F	java:S106'"+Replace this use of System.out by a logger.(ÿêŒe8ˆ£½«1

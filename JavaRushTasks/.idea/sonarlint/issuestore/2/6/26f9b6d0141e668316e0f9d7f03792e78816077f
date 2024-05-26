@@ -1,0 +1,17 @@
+
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(êÛ®¿ûÿÿÿÿ8–ßí½«1
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(÷óËúÿÿÿÿ8—ßí½«1
+†
+java:S1319+"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(‘ÖÂ¸şÿÿÿÿ8—ßí½«1
+†
+java:S13196"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(¥æ½ñşÿÿÿÿ8˜ßí½«1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8¥ßí½«1
+]	java:S125"<This block of commented-out lines of code should be removed.(àş’Ôûÿÿÿÿ8¨ßí½«1
+X	java:S125"<This block of commented-out lines of code should be removed.(úôÛŠ8ªßí½«1
+]	java:S125."<This block of commented-out lines of code should be removed.(ƒº¯Éøÿÿÿÿ8¬ßí½«1
+]	java:S1259"<This block of commented-out lines of code should be removed.(šŸ«íøÿÿÿÿ8¯ßí½«1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8°ßí½«1

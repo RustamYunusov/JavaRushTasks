@@ -1,0 +1,7 @@
+
+„
+java:S1319"gThe type of "strings" should be an interface such as "List" rather than the implementation "ArrayList".(óÌ‡½8ğÙä¾1
+Š
+java:S1319$"hThe type of "integers" should be an interface such as "List" rather than the implementation "ArrayList".(ş°£òÿÿÿÿÿ8ñÙä¾1
+G	java:S106"+Replace this use of System.out by a logger.(±¤ª¹8ŸŸÙä¾1
+G	java:S106"+Replace this use of System.out by a logger.(«òˆì8¡ŸÙä¾1

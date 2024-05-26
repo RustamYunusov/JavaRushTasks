@@ -1,0 +1,15 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¶¾®Êà1
+K
+java:S1905")Remove this unnecessary cast to "String".(×Î×˜øÿÿÿÿ8½¾®Êà1
+G	java:S106$"+Replace this use of System.out by a logger.(†²èÂ8½¾®Êà1
+G	java:S106("+Replace this use of System.out by a logger.(÷¾¶î8¾¾®Êà1
+G	java:S106,"+Replace this use of System.out by a logger.(¼ËÐ 8¿¾®Êà1
+L	java:S1060"+Replace this use of System.out by a logger.(ï‡çñÿÿÿÿÿ8¿¾®Êà1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8À¾®Êà1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8À¾®Êà1
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×êŽ’8À¾®Êà1

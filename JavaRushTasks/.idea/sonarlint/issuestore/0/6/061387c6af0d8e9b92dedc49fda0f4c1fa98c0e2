@@ -1,0 +1,7 @@
+
+k
+java:S2095"IUse try-with-resources or close this "InputStream" in a "finally" clause.(ºÃé°ÿÿÿÿÿ8¶âˆÔ¸1
+H
+java:S1874"+Remove this use of "URL"; it is deprecated.(…¨ê£8þ÷‡Ô¸1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ý©¬8òÊˆÔ¸1
+]	java:S125"<This block of commented-out lines of code should be removed.(†’†³ýÿÿÿÿ8ÑâˆÔ¸1

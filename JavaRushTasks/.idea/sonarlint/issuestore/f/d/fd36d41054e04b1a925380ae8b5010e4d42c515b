@@ -1,0 +1,12 @@
+
+u
+java:S1104"XMake outputStream a static final constant or non-public and provide accessors if needed.(‡ù‚¹8ª›Ëºµ1
+t
+java:S1104"RMake stream a static final constant or non-public and provide accessors if needed.(÷©áĞüÿÿÿÿ8«›Ëºµ1
+O
+java:S1444"2Make this "public static outputStream" field final(‡ù‚¹8«›Ëºµ1
+N
+java:S1444",Make this "public static stream" field final(÷©áĞüÿÿÿÿ8«›Ëºµ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¼›Ëºµ1
+L	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Â›Ëºµ1

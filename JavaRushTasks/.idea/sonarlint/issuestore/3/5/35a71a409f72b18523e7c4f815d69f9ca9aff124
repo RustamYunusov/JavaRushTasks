@@ -1,0 +1,12 @@
+
+z	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8‘£Í÷°1
+8
+java:S36260"Remove this redundant jump.(ÉŠ©ƒ8§¬Î÷°1
+8
+java:S36264"Remove this redundant jump.(ÉŠ©ƒ8÷¹Ñ÷°1
+G	java:S106#"+Replace this use of System.out by a logger.(Î³¦Ü8­Ë÷°1
+€
+java:S1157%"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¯÷Üå8­Ë÷°1
+G	java:S106,"+Replace this use of System.out by a logger.(ğô¥é8¨­Ë÷°1
+F	java:S106/"+Replace this use of System.out by a logger.(Éï<8‚ºÑ÷°1
+L	java:S1063"+Replace this use of System.out by a logger.(¿ÔÑÁúÿÿÿÿ8ƒºÑ÷°1

@@ -1,0 +1,31 @@
+
+t
+java:S1104"RMake intVar a static final constant or non-public and provide accessors if needed.(Ğìè•şÿÿÿÿ8Å¢˜÷ß1
+w
+java:S1104	"UMake doubleVar a static final constant or non-public and provide accessors if needed.(·˜çªÿÿÿÿÿ8Ä®‘÷ß1
+w
+java:S1104
+"UMake DoubleVar a static final constant or non-public and provide accessors if needed.(ÿ‚¬šıÿÿÿÿ8Ä®‘÷ß1
+x
+java:S1104"VMake booleanVar a static final constant or non-public and provide accessors if needed.(ğ™“æıÿÿÿÿ8Ä®‘÷ß1
+r
+java:S1104"UMake ObjectVar a static final constant or non-public and provide accessors if needed.(–ğıç8Ä®‘÷ß1
+z
+java:S1104"XMake ExceptionVar a static final constant or non-public and provide accessors if needed.(ì„ùíûÿÿÿÿ8Ä®‘÷ß1
+w
+java:S1104"UMake StringVar a static final constant or non-public and provide accessors if needed.(´É’¼şÿÿÿÿ8Ä®‘÷ß1
+u	java:S116
+"TRename this field "DoubleVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚¬šıÿÿÿÿ8í¼“øß1
+p	java:S116"TRename this field "ObjectVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ğıç8î¼“øß1
+x	java:S116"WRename this field "ExceptionVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì„ùíûÿÿÿÿ8î¼“øß1
+u	java:S116"TRename this field "StringVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´É’¼şÿÿÿÿ8ï¼“øß1
+x
+java:S1845
+"VRename field "DoubleVar" to prevent any misunderstanding/clash with field "doubleVar".(ÿ‚¬šıÿÿÿÿ8Ì®‘÷ß1
+F	java:S106"+Replace this use of System.out by a logger.(ÒŸô78Ò®‘÷ß1
+L	java:S106"+Replace this use of System.out by a logger.(÷ÆõÔÿÿÿÿÿ8ÄÏ“÷ß1
+G	java:S106"+Replace this use of System.out by a logger.(•°Åÿ8ÅÏ“÷ß1
+L	java:S106"+Replace this use of System.out by a logger.(«ê…­úÿÿÿÿ8Ûø“÷ß1
+L	java:S106"+Replace this use of System.out by a logger.(¸‡ûÍıÿÿÿÿ8Üø“÷ß1
+G	java:S106"+Replace this use of System.out by a logger.(á€şË8Üø“÷ß1
+G	java:S106"+Replace this use of System.out by a logger.(ô®Æ”8ò•÷ß1

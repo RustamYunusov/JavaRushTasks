@@ -1,0 +1,17 @@
+
+y
+java:S1104"\Make totalSpeechCount a static final constant or non-public and provide accessors if needed.(Ç¡««8ßİŒ÷1
+|
+java:S1104	"_Make utterancesPerSpeech a static final constant or non-public and provide accessors if needed.(‡ã‰8àİŒ÷1
+S
+java:S1444"6Make this "public static totalSpeechCount" field final(Ç¡««8àİŒ÷1
+V
+java:S1444	"9Make this "public static utterancesPerSpeech" field final(‡ã‰8àİŒ÷1
+E	java:S108")Either remove or fill this block of code.(Ì¬ºÓ8…ŞŒ÷1
+G	java:S106"+Replace this use of System.out by a logger.(¶íÊº8…ŞŒ÷1
+G	java:S106"+Replace this use of System.out by a logger.(Ê„¯ğ8†ŞŒ÷1
+L	java:S106"+Replace this use of System.out by a logger.(¼şÇ—ûÿÿÿÿ8‡ŞŒ÷1
+W
+java:S1161%":Add the "@Override" annotation above this method signature(“–ış8ŞŒ÷1
+^
+java:S3078'"AUse an "AtomicInteger" for this field; its operations are atomic.(”­‘¿8ŞŒ÷1

@@ -1,0 +1,15 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Ö›Ôøÿÿÿÿ8çêñÎ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£óàÏÿÿÿÿÿ8èêñÎ1
+i
+java:S1104""MMake x a static final constant or non-public and provide accessors if needed.(µÎ¼8éêñÎ1
+o
+java:S1104#"MMake y a static final constant or non-public and provide accessors if needed.(¬„®Úÿÿÿÿÿ8éêñÎ1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ûêñÎ1
+L	java:S106"+Replace this use of System.out by a logger.(ñÈ˜ıÿÿÿÿ8şêñÎ1
+L	java:S106"+Replace this use of System.out by a logger.(Ç³›ùÿÿÿÿ8ÿêñÎ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¨«È™ûÿÿÿÿ8ºìñÎ1

@@ -1,0 +1,18 @@
+
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ÌÉ°üüÿÿÿÿ8Åœ„¾«1
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(üÀ—øÿÿÿÿ8Æœ„¾«1
+
+java:S1319)"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(³ÍïÕ8Æœ„¾«1
+†
+java:S1319;"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(®‰ıÛüÿÿÿÿ8Çœ„¾«1
+
+java:S1488="]Immediately return this expression instead of assigning it to the temporary variable "index".(€şËüÿÿÿÿ8Éœ„¾«1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8Öœ„¾«1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ş²œ¨8Ùœ„¾«1
+]	java:S125"<This block of commented-out lines of code should be removed.(Öä³šùÿÿÿÿ8Ûœ„¾«1
+W	java:S125-"<This block of commented-out lines of code should be removed.(¬›f8Şœ„¾«1
+]	java:S125?"<This block of commented-out lines of code should be removed.(£°çüıÿÿÿÿ8áœ„¾«1

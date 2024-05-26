@@ -1,0 +1,22 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¡èÿÿÿÿÿ
+q
+java:S1104"VMake exceptions a static final constant or non-public and provide accessors if needed.(ø¡èÿÿÿÿÿ
+K
+java:S1444"0Make this "public static exceptions" field final(ø¡èÿÿÿÿÿ
+W
+java:S2184"ACast one of the operands of this division operation to a "float".(‰£Ò¥
+`
+java:S3518"CMake sure this expression can't be zero before doing this division.(‰£Ò¥8©ÿšßÛ1
+8
+java:S2386"Make this member "protected".(ø¡èÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "i".(‰£Ò¥
+<
+java:S1481"&Remove this unused "i" local variable.(‰£Ò¥
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8µÿšßÛ1
+]
+java:S1128";Remove this unused import 'java.io.InterruptedIOException'.(˜ûĞşÿÿÿÿ8µÿšßÛ1

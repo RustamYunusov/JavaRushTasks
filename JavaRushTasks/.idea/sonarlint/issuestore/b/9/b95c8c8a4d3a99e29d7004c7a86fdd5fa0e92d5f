@@ -1,0 +1,9 @@
+
+9
+java:S1643C"Use a StringBuilder instead.(§¨Œ8ûÒÑ÷1
+E	java:S108")Either remove or fill this block of code.(ŒğçÉ8²ÓÑ÷1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ¨°‚8´ÓÑ÷1
+L	java:S106,"+Replace this use of System.out by a logger.(Øúä»øÿÿÿÿ8·ÓÑ÷1
+W
+java:S1161@":Add the "@Override" annotation above this method signature(“–ış8»ÓÑ÷1
+G	java:S106F"+Replace this use of System.out by a logger.(¿÷¼²8¼ÓÑ÷1

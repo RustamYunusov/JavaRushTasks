@@ -1,0 +1,12 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ъ»У≤€€€€€8Ћль№џ1
+k
+java:S6201"NReplace this instanceof check and cast with 'instanceof OneRoomApt oneroomapt'(€ЈЫҐ8жль№џ1
+j
+java:S6201"NReplace this instanceof check and cast with 'instanceof TwoRoomApt tworoomapt'(≥ћВ8зль№џ1
+t
+java:S6201"RReplace this instanceof check and cast with 'instanceof ThreeRoomApt threeroomapt'(пм√Вы€€€€8иль№џ1
+F	java:S106$"+Replace this use of System.out by a logger.(№ўЩc8кль№џ1
+G	java:S106*"+Replace this use of System.out by a logger.(аѓ÷Ђ8мль№џ1
+L	java:S1060"+Replace this use of System.out by a logger.(ЭЄюќь€€€€8нль№џ1

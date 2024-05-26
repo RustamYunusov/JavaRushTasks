@@ -1,0 +1,26 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "mouse2".(®úˆÍ
+U
+java:S1854
+":Remove this useless assignment to local variable "mouse1".(¬½£°ûÿÿÿÿ
+V
+java:S1854	"9Remove this useless assignment to local variable "alpha".(»¯ÊŸ8¢¡÷1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78‚¢¡÷1
+G
+java:S1481	"*Remove this unused "alpha" local variable.(»¯ÊŸ8„¢¡÷1
+F
+java:S1481
+"+Remove this unused "mouse1" local variable.(¬½£°ûÿÿÿÿ
+A
+java:S1481"+Remove this unused "mouse2" local variable.(®úˆÍ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+E	java:S106"+Replace this use of System.out by a logger.(€­ˆÎùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(úÙƒùÿÿÿÿ
+4
+java:S3398"Move this method into "Mouse".(¯°¯

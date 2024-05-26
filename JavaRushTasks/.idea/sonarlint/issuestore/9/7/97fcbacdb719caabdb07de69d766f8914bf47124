@@ -1,0 +1,7 @@
+
+g
+java:S2259"EA "NullPointerException" could be thrown; "scanner" is nullable here.(ƒµ¹ıÿÿÿÿ8£óËõ±1
+L	java:S106"+Replace this use of System.out by a logger.(  ¾‡ÿÿÿÿÿ8ßÊõ±1
+G	java:S106"+Replace this use of System.out by a logger.(Ëªˆ¤8äÊõ±1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ËîÊõ±1

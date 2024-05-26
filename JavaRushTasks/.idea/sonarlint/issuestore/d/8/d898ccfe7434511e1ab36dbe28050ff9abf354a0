@@ -1,0 +1,14 @@
+
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8¸¡áÙÛ1
+G	java:S106"+Replace this use of System.out by a logger.(Úİ÷¶8À¡áÙÛ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ü•®ışÿÿÿÿ8Â¡áÙÛ1
+d
+java:S20944"BRemove this empty class, write its code or make it an "interface".(á–ÎÎúÿÿÿÿ8Å¡áÙÛ1
+g
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(á–ÎÎúÿÿÿÿ8Æ¡áÙÛ1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8Ç¡áÙÛ1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8Ç¡áÙÛ1

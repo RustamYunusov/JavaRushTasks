@@ -1,0 +1,8 @@
+
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(§ıÑ¨8ãÙÌ´¬1
+G	java:S106"+Replace this use of System.out by a logger.(ô¬³8íÙÌ´¬1
+T
+java:S1854"7Remove this useless assignment to local variable "cnt".(§…§®8´Ù´¬1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ØÕÓ´¬1

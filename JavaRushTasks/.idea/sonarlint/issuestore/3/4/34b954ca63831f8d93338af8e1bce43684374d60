@@ -1,0 +1,15 @@
+
+
+java:S1319"kThe type of "destination" should be an interface such as "List" rather than the implementation "ArrayList".(¨æô°øÿÿÿÿ8€®ã½«1
+ˆ
+java:S1319"fThe type of "source" should be an interface such as "List" rather than the implementation "ArrayList".(¨æô°øÿÿÿÿ8®ã½«1
+†
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(¶ŞÈøÿÿÿÿ8®ã½«1
+€
+java:S1319#"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(çˆæD8‚®ã½«1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8®ã½«1
+W	java:S125"<This block of commented-out lines of code should be removed.(ëï»h8’®ã½«1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÜÚÉ8”®ã½«1
+X	java:S125&"<This block of commented-out lines of code should be removed.(ãÇâ‡8—®ã½«1

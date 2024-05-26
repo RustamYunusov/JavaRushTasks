@@ -1,0 +1,9 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+L
+java:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8’‰¹È1
+I
+java:S1144",Remove this unused private "setName" method.(ˆËŠ¯8ÆÖŒ¹È1
+H
+java:S1144""+Remove this unused private "setAge" method.(â¿8ËíŒ¹È1

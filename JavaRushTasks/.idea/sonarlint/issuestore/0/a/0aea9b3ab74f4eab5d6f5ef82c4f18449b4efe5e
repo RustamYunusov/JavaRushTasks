@@ -1,0 +1,14 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¼ò¾ƒüÿÿÿÿ8ØûƒÈ×1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(½÷º¢8ÚûƒÈ×1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(™„·¶8ÛûƒÈ×1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ğ—Ö‰üÿÿÿÿ8İûƒÈ×1
+]
+java:S2259
+"AA "NullPointerException" could be thrown; "hen" is nullable here.(ğ¸çp8ÙüƒÈ×1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¬ïÒÒ8éüƒÈ×1

@@ -1,0 +1,20 @@
+
+c
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(ù÷¨µ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(¢Ì¦ô
+t
+java:S1171
+"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ç³Ïšıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ĞÓ¯ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(œ™šÊşÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(ûÑò±
+K
+java:S1854&"5Remove this useless assignment to local variable "s".(ş¬ãß
+@	java:S106%"+Replace this use of System.out by a logger.(ÉÇ¨¿
+<
+java:S1481&"&Remove this unused "s" local variable.(ş¬ãß
+@	java:S106*"+Replace this use of System.out by a logger.(ıƒ´³
+@	java:S106+"+Replace this use of System.out by a logger.(™‰‡¼
+G	java:S106,"+Replace this use of System.out by a logger.(…Ó³½8…Øèèì1

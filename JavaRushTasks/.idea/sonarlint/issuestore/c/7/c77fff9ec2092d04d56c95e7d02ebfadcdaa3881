@@ -1,0 +1,13 @@
+
+L
+java:S2885"*Make "INVENTION_DAY" an instance variable.(âì¨ıÿÿÿÿ8åÈË º1
+[
+java:S1854">Remove this useless assignment to local variable "currentDay".(ì™©8êÈË º1
+L
+java:S1481"/Remove this unused "currentDay" local variable.(ì™©8ìÈË º1
+L	java:S106""+Replace this use of System.out by a logger.(ßà½Ùşÿÿÿÿ8ñÈË º1
+L	java:S106&"+Replace this use of System.out by a logger.(Øğ‚øÿÿÿÿ8óÈË º1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8õÈË º1
+[
+java:S1128"?Remove this unused import 'java.util.spi.CalendarNameProvider'.(«ú×8öÈË º1

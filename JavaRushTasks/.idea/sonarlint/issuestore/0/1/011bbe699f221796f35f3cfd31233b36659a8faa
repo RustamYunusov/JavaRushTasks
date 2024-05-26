@@ -1,0 +1,5 @@
+
+L	java:S106
+"+Replace this use of System.out by a logger.(é½•Æşÿÿÿÿ8´íÈö¬1
+^
+java:S1854"<Remove this useless assignment to local variable "lastNode".(ßˆ€Æùÿÿÿÿ8µíÈö¬1

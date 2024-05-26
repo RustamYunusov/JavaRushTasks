@@ -1,0 +1,13 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½½Ô„8–“ÍƒÔ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÄ°¥8—“ÍƒÔ1
+j
+java:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(ïäˆÚ8¹”ÍƒÔ1
+H
+java:S1481"&Remove this unused "j" local variable.(„í¥ ûÿÿÿÿ8Ë”ÍƒÔ1
+M
+java:S1874"0Remove this use of "readLine"; it is deprecated.(¶££“8Ï”ÍƒÔ1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8Ó”ÍƒÔ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ô”ÍƒÔ1

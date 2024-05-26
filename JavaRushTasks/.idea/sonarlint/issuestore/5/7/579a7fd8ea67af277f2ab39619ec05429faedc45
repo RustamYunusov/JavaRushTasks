@@ -1,0 +1,9 @@
+
+z	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ñß¿÷°1
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹÷è8ÛÁ½÷°1
+G	java:S106#"+Replace this use of System.out by a logger.(Î³¦Ü8ÝÂ½÷°1
+€
+java:S1157%"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¯÷Üå8ßÂ½÷°1
+F	java:S106."+Replace this use of System.out by a logger.(ÉŽï<8åÂ½÷°1
+G	java:S1063"+Replace this use of System.out by a logger.(ðô¥é8æÂ½÷°1
+L	java:S1065"+Replace this use of System.out by a logger.(¿ÔÑÁúÿÿÿÿ8Ÿâ¾÷°1
